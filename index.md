@@ -2,9 +2,12 @@
 
 ### Privacy Policy  
 
-i. Magnet does not collect any data.
+i. Magnet collects anonymous data for analytics and improving stability and performance using Google Analytics. None of this data is linked to your device or Reddit id. This data is periodically collected based on events performed in the app and sent to Google.
 
-ii. Reddit may collect data from requests in accordance with their privacy policy. For more info, see their [privacy policy](https://redditinc.com/policies/privacy-policy).
+ii.For more info on how Google uses this data follow the link below.
+[How Google uses data when you use our partners' sites and apps](https://www.google.com/policies/privacy/partners/)
+
+iii. Reddit may collect data from requests in accordance with their privacy policy. For more info, see their [privacy policy](https://redditinc.com/policies/privacy-policy).
 
 
 ### Support
